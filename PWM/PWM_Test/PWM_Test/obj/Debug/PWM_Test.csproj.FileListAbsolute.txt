@@ -1,0 +1,29 @@
+c:\users\ust34396\documents\visual studio 2010\Projects\TrackingSystem\PWM\PWM_Test\PWM_Test\bin\Debug\le\FEZ Panda Application.exe
+c:\users\ust34396\documents\visual studio 2010\Projects\TrackingSystem\PWM\PWM_Test\PWM_Test\bin\Debug\be\FEZ Panda Application.exe
+c:\users\ust34396\documents\visual studio 2010\Projects\TrackingSystem\PWM\PWM_Test\PWM_Test\bin\Debug\le\FEZ Panda Application.pdb
+c:\users\ust34396\documents\visual studio 2010\Projects\TrackingSystem\PWM\PWM_Test\PWM_Test\bin\Debug\be\FEZ Panda Application.pdb
+c:\users\ust34396\documents\visual studio 2010\Projects\TrackingSystem\PWM\PWM_Test\PWM_Test\bin\Debug\FEZ Panda Application.exe
+c:\users\ust34396\documents\visual studio 2010\Projects\TrackingSystem\PWM\PWM_Test\PWM_Test\bin\Debug\FEZ Panda Application.pdb
+c:\users\ust34396\documents\visual studio 2010\Projects\TrackingSystem\PWM\PWM_Test\PWM_Test\bin\Debug\le\FEZ Panda Application.pe
+c:\users\ust34396\documents\visual studio 2010\Projects\TrackingSystem\PWM\PWM_Test\PWM_Test\bin\Debug\le\FEZ Panda Application.pdbx
+c:\users\ust34396\documents\visual studio 2010\Projects\TrackingSystem\PWM\PWM_Test\PWM_Test\bin\Debug\be\FEZ Panda Application.pe
+c:\users\ust34396\documents\visual studio 2010\Projects\TrackingSystem\PWM\PWM_Test\PWM_Test\bin\Debug\be\FEZ Panda Application.pdbx
+c:\users\ust34396\documents\visual studio 2010\Projects\TrackingSystem\PWM\PWM_Test\PWM_Test\obj\Debug\ResolveAssemblyReference.cache
+c:\users\ust34396\documents\visual studio 2010\Projects\TrackingSystem\PWM\PWM_Test\PWM_Test\obj\Debug\TinyCLR_DebugReferences.cache
+c:\users\ust34396\documents\visual studio 2010\Projects\TrackingSystem\PWM\PWM_Test\PWM_Test\obj\Debug\PWM_Test.Resources.resources
+c:\users\ust34396\documents\visual studio 2010\Projects\TrackingSystem\PWM\PWM_Test\PWM_Test\obj\Debug\GenerateResource.read.1.tlog
+c:\users\ust34396\documents\visual studio 2010\Projects\TrackingSystem\PWM\PWM_Test\PWM_Test\obj\Debug\GenerateResource.write.1.tlog
+c:\users\ust34396\documents\visual studio 2010\Projects\TrackingSystem\PWM\PWM_Test\PWM_Test\obj\Debug\PWM_Test.Resources.tinyresources
+c:\users\ust34396\documents\visual studio 2010\Projects\TrackingSystem\PWM\PWM_Test\PWM_Test\obj\Debug\TinyResGen.cache
+c:\users\ust34396\documents\visual studio 2010\Projects\TrackingSystem\PWM\PWM_Test\PWM_Test\obj\Debug\FEZ Panda Application.exe
+c:\users\ust34396\documents\visual studio 2010\Projects\TrackingSystem\PWM\PWM_Test\PWM_Test\obj\Debug\FEZ Panda Application.pdb
+C:\Users\ust34396\documents\visual studio 2010\Projects\TrackingSystem\PWM\PWM_Test\PWM_Test\bin\Debug\LE\GHIElectronics.NETMF.Hardware.pe
+C:\Users\ust34396\documents\visual studio 2010\Projects\TrackingSystem\PWM\PWM_Test\PWM_Test\bin\Debug\BE\GHIElectronics.NETMF.Hardware.pe
+C:\Users\ust34396\documents\visual studio 2010\Projects\TrackingSystem\PWM\PWM_Test\PWM_Test\bin\Debug\LE\GHIElectronics.NETMF.Hardware.pdbx
+C:\Users\ust34396\documents\visual studio 2010\Projects\TrackingSystem\PWM\PWM_Test\PWM_Test\bin\Debug\BE\GHIElectronics.NETMF.Hardware.pdbx
+C:\Users\ust34396\documents\visual studio 2010\Projects\TrackingSystem\PWM\PWM_Test\PWM_Test\bin\Debug\GHIElectronics.NETMF.Hardware.dll
+C:\Users\ust34396\documents\visual studio 2010\Projects\TrackingSystem\PWM\PWM_Test\PWM_Test\bin\Debug\GHIElectronics.NETMF.Hardware.xml
+C:\Users\ust34396\documents\visual studio 2010\Projects\TrackingSystem\PWM\PWM_Test\PWM_Test\obj\Debug\be\FEZ Panda Application.pe
+C:\Users\ust34396\documents\visual studio 2010\Projects\TrackingSystem\PWM\PWM_Test\PWM_Test\obj\Debug\be\FEZ Panda Application.pdbx
+C:\Users\ust34396\documents\visual studio 2010\Projects\TrackingSystem\PWM\PWM_Test\PWM_Test\obj\Debug\le\FEZ Panda Application.pe
+C:\Users\ust34396\documents\visual studio 2010\Projects\TrackingSystem\PWM\PWM_Test\PWM_Test\obj\Debug\le\FEZ Panda Application.pdbx
